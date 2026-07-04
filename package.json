@@ -1,6 +1,6 @@
 {
   "name": "@ecotrackr/co2-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CO2 Calculator component for EcoTrackr - calculate and track carbon footprint",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
