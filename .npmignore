@@ -1,0 +1,15 @@
+src/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+tsconfig.json
+vitest.config.ts
+.github/
+.git/
+coverage/
+node_modules/
+*.log
+*.tgz
+.env
+.DS_Store
